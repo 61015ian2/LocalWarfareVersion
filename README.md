@@ -1,0 +1,2 @@
+# LocalWarfareVersion
+Version of LocalWarfare
